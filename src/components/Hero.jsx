@@ -24,8 +24,7 @@ const Hero = () => {
         </div>
 
         <p className={`${styles.paragraph} max-w-[470px] mt-2 text-sm md:text-base`}>
-        He’s a boxer going through a manic episode. 
-        He said he said the elites tied him down and made him watch kids gets raped.
+        da bestest boxrz in da werlds. faster boxrz to getz da kte, da elitez tryz getz me.
           CA: Soon
         </p>
       </div>
