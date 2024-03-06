@@ -2,7 +2,7 @@ import React from "react";
 
 const Button = ({ styles }) => {
   const handleClick = () => {
-    window.location.href = "https://t.me/WENWIFHATCHAT";
+    window.location.href = "https://t.me/ryengercieportal";
   };
 
   return (
