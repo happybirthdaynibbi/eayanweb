@@ -22,7 +22,7 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={`${styles.heading2}`}>
-        About RyanGarcia
+        About Ryengercie
       </h2>
       <p className={`${styles.paragraph} max-w-[470px]`}>
         
